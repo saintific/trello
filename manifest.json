@@ -1,0 +1,16 @@
+{
+  "name": "CopyRename",
+  "details": "Card repeater with rename function",
+  "icon": {
+    "url": "N/A"
+  },
+  "author": "saintific",
+  "capabilities": [
+    "board-buttons"
+  ],
+  "connectors": {
+    "iframe": {
+      "url": "./"
+    }
+  }
+}
